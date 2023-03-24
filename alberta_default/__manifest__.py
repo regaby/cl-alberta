@@ -132,6 +132,7 @@
     'git-repos': [
         'https://github.com/regaby/cl-alberta.git',
         'https://github.com/OCA/vertical-hotel.git',
+        'https://github.com/OCA/web.git',
 
     ],
 
